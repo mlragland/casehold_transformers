@@ -7,3 +7,6 @@ this file was used to initialize the test environment for evaluating the legal p
 
 ### requirements.txt
 this file is crucial for encapsulating the dependencies necessary to recreate a Python environment, ensuring consistency across different setups and stremlining the setup process
+
+### casehold.csv
+this file has been modified for the purpose of evaluating the dataset against multiple choice.  Describe the changes to the file that are not present in the data available on hugging face.
