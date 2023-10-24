@@ -10,3 +10,8 @@ this file is crucial for encapsulating the dependencies necessary to recreate a 
 
 ### casehold.csv
 this file has been modified for the purpose of evaluating the dataset against multiple choice.  Describe the changes to the file that are not present in the data available on hugging face.
+
+### data.zip
+the data.zip file contains the casehold.csv and overruling.csv files.  These files are located in a google_drive repository and contains the necessary attributes to process the multiple choice questions.  use the code in the notebook to split the data into train,test, dev, and all and load into the data folder
+
+
